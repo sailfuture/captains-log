@@ -29,7 +29,9 @@ In closing, I want to extend my gratitude to each of you for contributing to the
 <br>
 
 Fair winds and following seas,
+
 <br>
+
 Hunter Thompson 
 
 Head of School 
