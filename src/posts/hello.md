@@ -14,6 +14,8 @@ tags:
 ---
 Dear Students,
 
+<br>
+
 I am thrilled to welcome you to the latest edition of our cherished 'Captain's Log' at SailFuture Academy. As your head of school, it's an honor to witness the continuous growth and adventures that each of you embarks upon in this unique learning journey.
 
 <br>
@@ -27,7 +29,7 @@ In closing, I want to extend my gratitude to each of you for contributing to the
 <br>
 
 Fair winds and following seas,
-
+<br>
 Hunter Thompson 
 
 Head of School 
