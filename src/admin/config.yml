@@ -22,16 +22,26 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - "Business and Economics"
+          - "Travel"
+          - "Diversity and Inclusion"
+          - "Science and Technology"
+          - "Sports"
+          - "Health and Wellness"
+          - "Opinion and Editorials"
+          - "Arts and Culture"
+          - "Community News"
+          - "Features"
+          - "Academics"
+          - "Internships"
       - { label: "Crew Name", name: "crew", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Header Image", name: "header_image", widget: "image", required: false, media_library: { allow_multiple: false } }
       - { label: "Body", name: "body", widget: "markdown" }
-      - widget: select
-        label: "tags"
-        name: "tags"
-        multiple: true
-        create: true
-        options: ["Business and Economics", "Travel", "Diversity and Inclusion", " Science and Technology", "Sports", "Health and wellness", "Opinion and editorials", "Arts and culture", Community news", "Features", "Academics", "Internships"]
   - label: "Settings"
     name: "settings"
     editor:
