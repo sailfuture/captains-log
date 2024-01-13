@@ -3,20 +3,70 @@ layout: default
 title: Neat Starter
 path: home
 ---
+  
+  <div class="bg-white px-6 lg:px-8 mt-16">
+    <div class="mx-auto max-w-2xl text-center">
+      <p class="text-base font-semibold leading-7 text-blue-600">SailFuture Academy</p>
+      <h2 class="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">The Captain's Log</h2>
+      <p class="mt-6 text-lg leading-8 text-gray-600"> 
+        In this second edition of the "SailFuture Captain's Log," our students delve into a diverse array of topics, encompassing campus happenings, insightful interviews, updates on internships, local news, and more, reflecting the rich tapestry of experiences and interests across our academy.
+        </p>
+    </div>
+  </div>
 
-<div class="container mx-auto lg:h-screen flex flex-col justify-center items-center">
-  <h1>
-    Welcome to
-    <strong class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500">
-      {{title}}
-    </strong>
-  </h1>
 
-  <p>
-    <abbr title="netlify cms, eleventy, alpine js & tailwind css">NEAT</abbr>
-    Starter Template. Get Started by editing.
-    <code class="bg-gray-100 text-blue-800 p-1">/index.njk</code>
-  </p>
+<div class="bg-white">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl text-center">
+        <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"></h2>
+      </div>
+      <div class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+        {% set postslist = collections.post %}
+        {% for post in postslist | reverse %}
+        <article class="flex flex-col items-start justify-between">
+          <div class="relative w-full">
+            <img src="{{ post.data.header_image }}" alt="" class="aspect-[16/9] w-full rounded-2xl bg-gray-100 object-cover sm:aspect-[2/1] lg:aspect-[3/2]">
+            <div class="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10"></div>
+          </div>
+          <div class="max-w-xl">
+            <div class="mt-8 flex items-center gap-x-4 text-xs">
+              <time datetime="2020-03-16" class="text-gray-500">{{ post.date | readableDate }}</time>
+              <a href="{{ post.url | url }}" class="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100">Marketing</a>
+            </div>
+            <div class="group relative">
+              <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
+                <a href="{{ post.url | url }}">
+                  <span class="absolute inset-0"></span>
+                  {% if post.data.title %}
+                  {{ post.data.title }}
+              {% else %}
+                  Untitled
+              {% endif %}
+                </a>
+              </h3>
+              <p class="mt-5 line-clamp-3 text-sm leading-6 text-gray-600">
+            {% if post.data.description %}
+            {{ post.data.description }}
+            {% endif %}
+            </div>
+            <div class="relative mt-8 flex items-center gap-x-4">
+              <img src="https://res.cloudinary.com/dbhwzxw0k/image/upload/v1705108761/3SF_LogoWhite_copy_2_3x.png" alt="" class="h-10 w-10 rounded-full bg-gray-100">
+              <div class="text-sm leading-6">
+                <p class="font-semibold text-gray-900">
+                  <a href="{{ post.url | url }}">
+                    <span class="absolute inset-0"></span>
+                    {{ post.data.author }}
+                  </a>
+                </p>
+                <p class="text-gray-600">{{ post.data.crew }}</p>
+              </div>
+            </div>
+          </div>
+        </article>
+        {% endfor %}
+        <!-- More posts... -->
+      </div>
+    </div>
+  </div>
 
-  {% include "./_includes/partials/content.html" %}
-</div>
+
