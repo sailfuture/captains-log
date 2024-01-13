@@ -16,7 +16,7 @@ Dear Students,
 
 I am thrilled to welcome you to the latest edition of our cherished 'Captain's Log' at SailFuture Academy. As your head of school, it's an honor to witness the continuous growth and adventures that each of you embarks upon in this unique learning journey.
 
-<﻿br></br>
+<﻿/br >
 
 The 'Captain's Log' is more than just a newsletter; it's a reflection of our collective experiences and achievements. In this edition, you'll find an array of stories, insights, and highlights that exemplify the spirit of SailFuture Academy. We believe in the power of experiential learning and the profound impact it has on shaping well-rounded, resilient individuals. Here, you'll read about the remarkable projects our students have undertaken, from innovative sustainability initiatives to community outreach programs that demonstrate our commitment to making a positive impact in the world
 
