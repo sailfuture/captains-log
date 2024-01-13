@@ -8,7 +8,7 @@ author: Mr. Thompson
 category: Community News
 crew: Head of School
 date: 2024-01-13T01:38:03.788Z
-header_image: /static/img/hunter.r.thompson_young_professional_working_on_laptop_in_studi_dbb10f84-95bc-4977-bbf9-acef7586f058.webp
+header_image: /static/img/092923_whateverittakes_5_1d435f_croppped.jpg
 tags:
   - Travel
 ---
