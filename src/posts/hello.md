@@ -15,7 +15,11 @@ header_image: /static/img/hunter.r.thompson_young_professional_working_on_laptop
 tags:
   - Travel
 ---
-At the heart of SailFuture Academy, there's a pulsating rhythm of adventure, learning, and growth, and nothing encapsulates this spirit better than our very own student-driven newspaper, the "SailFuture Captain's Log." In its second edition, this publication is not just a paper; it's a mosaic of young minds, a tapestry woven from the threads of our students' diverse experiences, both on land and at sea.
+At the heart of SailFuture Academy, there's a pulsating rhythm of adventure, learning, and growth, and nothing encapsulates this spirit better than our very own student-driv
+
+![](/static/img/hunter.r.thompson_young_professional_working_on_laptop_in_studi_dbb10f84-95bc-4977-bbf9-acef7586f058.webp)
+
+en newspaper, the "SailFuture Captain's Log." In its second edition, this publication is not just a paper; it's a mosaic of young minds, a tapestry woven from the threads of our students' diverse experiences, both on land and at sea.
 
 From the bustling corridors of our campus to the expansive horizons of the ocean, each page of the Captain's Log brings forth a new narrative, a fresh perspective. The articles, penned with earnestness and flair, range from the latest campus news, capturing the vibrant life and activities at SailFuture Academy, to profound interviews with our faculty, staff, and fellow students, offering a deeper understanding of the people who make our community so unique.
 
