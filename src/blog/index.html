@@ -1,20 +1,29 @@
 ---
 layout: blog
 ---
+  
+  <div class="bg-white px-6 py-24 sm:py-32 lg:px-8">
+    <div class="mx-auto max-w-2xl text-center">
+      <p class="text-base font-semibold leading-7 text-indigo-600">SailFuture Academy</p>
+      <h2 class="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">The Captain's Log</h2>
+      <p class="mt-6 text-lg leading-8 text-gray-600"> 
+        In this second edition of the "SailFuture Captain's Log," our students delve into a diverse array of topics, encompassing campus happenings, insightful interviews, updates on internships, local news, and more, reflecting the rich tapestry of experiences and interests across our academy.
+        </p>
+    </div>
+  </div>
 
 
-<div class="bg-white py-24 sm:py-32">
+<div class="bg-white">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-2xl text-center">
-        <p class="text-base font-semibold leading-7 text-blue-600 text-center">SailFuture Academy</p>
-        <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">The Captain's Log</h2>
+        <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"></h2>
       </div>
       <div class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
         {% set postslist = collections.post %}
         {% for post in postslist | reverse %}
         <article class="flex flex-col items-start justify-between">
           <div class="relative w-full">
-            <img src="{{post.header_image}}" alt="" class="aspect-[16/9] w-full rounded-2xl bg-gray-100 object-cover sm:aspect-[2/1] lg:aspect-[3/2]">
+            <img src="{{ post.data.header_image }}" alt="" class="aspect-[16/9] w-full rounded-2xl bg-gray-100 object-cover sm:aspect-[2/1] lg:aspect-[3/2]">
             <div class="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10"></div>
           </div>
           <div class="max-w-xl">
@@ -39,7 +48,7 @@ layout: blog
             {% endif %}
             </div>
             <div class="relative mt-8 flex items-center gap-x-4">
-              <img src="{{post.header_image}}" alt="" class="h-10 w-10 rounded-full bg-gray-100">
+              <img src="https://res.cloudinary.com/dbhwzxw0k/image/upload/v1679773627/favion_1.png" alt="" class="h-10 w-10 rounded-full bg-gray-100">
               <div class="text-sm leading-6">
                 <p class="font-semibold text-gray-900">
                   <a href="{{ post.url | url }}">
