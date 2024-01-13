@@ -9,10 +9,12 @@ description: " Exploring New Horizons: The Second Edition of the SailFuture
   it's a mosaic of young minds, a tapestry woven from the threads of our
   students' diverse experiences, both on land and at sea."
 author: Camron Reynolds
+crew: Crew A
 date: 2024-01-13T01:38:03.788Z
 header_image: /static/img/hunter.r.thompson_young_professional_working_on_laptop_in_studi_dbb10f84-95bc-4977-bbf9-acef7586f058.webp
 tags:
   - Travel
+  - Opinion and editorials
 ---
 At the heart of SailFuture Academy, there's a pulsating rhythm of adventure, learning, and growth, and nothing encapsulates this spirit better than our very own student-driven newspaper, the "SailFuture Captain's Log." In its second edition, this publication is not just a paper; it's a mosaic of young minds, a tapestry woven from the threads of our students' diverse experiences, both on land and at sea.
 
