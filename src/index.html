@@ -4,7 +4,7 @@ title: Neat Starter
 path: home
 ---
   
-  <div class="bg-white px-6 lg:px-8 mt-16">
+  <div class="bg-white px-6 lg:px-8 mt-16 mb-16">
     <div class="mx-auto max-w-2xl text-center">
       <span class="inline-flex items-center rounded-full bg-blue-100 px-2 py-1 text-xs font-medium text-blue-700">The SailFuture Academy</span>
       <h2 class="mt-2 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">The Captain's Log</h2>
@@ -31,7 +31,7 @@ path: home
           <div class="max-w-xl">
             <div class="mt-8 flex items-center gap-x-4 text-xs">
               <time datetime="2020-03-16" class="text-gray-500">{{ post.date | readableDate }}</time>
-              <a href="{{ post.url | url }}" class="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100">Marketing</a>
+              <a href="{{ post.url | url }}" class="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100">{{ post.data.tags.options }}</a>
             </div>
             <div class="group relative">
               <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
