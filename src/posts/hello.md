@@ -16,11 +16,11 @@ Dear Students,
 
 <br>
 
-As the head of SailFuture Academy, it's my pleasure to introduce the newest edition of our 'Captain's Log'. This publication is a celebration of the diverse and dynamic community that we have built together. In its pages, you will find a wide array of topics, each offering a unique perspective and insight into the world around us.
+As the head of SailFuture Academy, it's my pleasure to introduce the newest edition of our 'Captain's Log'. This publication is a celebration of the diverse and dynamic community that we have built together.
 
 <br>
 
-The 'Captain's Log' is more than just a newsletter; it's a reflection of our collective experiences and achievements. In this edition, we dive into various fields such as Business and Economics, Travel, Diversity and Inclusion, Science and Technology, and Sports. Each article and feature is a testament to the curiosity and dedication of our students and faculty.
+In this edition, we dive into various fields such as Business and Economics, Travel, Diversity and Inclusion, Science and Technology, and Sports. The 'Captain's Log' is more than just a newsletter; it's a reflection of our collective thoughts, ideas, and achievements. 
 
 <br>
 
