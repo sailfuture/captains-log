@@ -20,15 +20,11 @@ As the head of SailFuture Academy, it's my pleasure to introduce the newest edit
 
 <br>
 
-In this edition, we dive into various fields such as Business and Economics, Travel, Diversity and Inclusion, Science and Technology, and Sports. The 'Captain's Log' is more than just a newsletter; it's a reflection of our collective thoughts, ideas, and achievements. 
+ In this second edition of the "SailFuture Captain's Log," our students delve into a diverse array of topics, encompassing campus happenings, insightful interviews, updates on internships, local news, and more. The 'Captain's Log' is more than just a newsletter; it's a reflection of our collective thoughts, ideas, and achievements. 
 
 <br>
 
-Let's continue to learn, explore, and grow together.
-
-<br>
-
-Fair winds and following seas,
+Happy reading!
 
 <br>
 
