@@ -24,8 +24,6 @@ The 'Captain's Log' is more than just a newsletter; it's a reflection of our col
 
 <br>
 
-The 'Captain's Log' is not just a newsletter; it's a mirror reflecting our collective journey, challenges, successes, and dreams. I encourage each of you to read, reflect, and contribute to this ongoing narrative that we are all a part of.
-
 Let's continue to learn, explore, and grow together.
 
 <br>
