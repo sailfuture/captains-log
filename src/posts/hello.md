@@ -1,5 +1,5 @@
 ---
-title: "nnouncement: A Message From Mr. Thompson"
+title: "Announcement: A Message From Mr. Thompson"
 description: I am thrilled to welcome you to the latest edition of our cherished
   'Captain's Log' at SailFuture Academy. As your head of school, it's an honor
   to witness the continuous growth and adventures that each of you embarks upon
