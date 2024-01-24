@@ -4,7 +4,7 @@ description: Unveiling the Transformative Impact of Martin Luther King Jr.
 author: Jonathan Purpuri
 category: Diversity and Inclusion
 crew: Crew B
-date: 2024-01-24T01:03:22.890Z
+date: 2024-01-24T01:12:48.813Z
 header_image: /static/img/4702165.jpg
 ---
 Diversity is something that exists among individuals, acknowledging variations in characteristics such as race, ethnicity, gender, age, sexual orientation, abilities, and more. It goes beyond visible traits to include diverse perspectives, experiences, and backgrounds. 
