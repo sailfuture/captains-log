@@ -1,5 +1,5 @@
 ---
-title: Internship Opportunities Preparing Us For The Future
+title: Internship Opportunities - Preparing Us For The Future
 description: Internship and Apprenticeship is a program that provides a
   multitude of benefits for the students at SailFuture Academy.
 author: Camron Reynolds
