@@ -5,7 +5,7 @@ description: Internship and Apprenticeship is a program that provides a
 author: Camron Reynolds
 category: Internships
 crew: Crew B
-date: 2024-01-24T00:27:00.000Z
+date: 2024-01-25T00:27:00.000Z
 header_image: /static/img/289362740_403676388450741_186891588665055242_n-1-.jpg
 ---
 
