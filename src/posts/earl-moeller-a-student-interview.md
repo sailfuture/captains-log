@@ -4,7 +4,7 @@ description: Interview with Earl Moeller
 author: Amideus Kane
 category: Features
 crew: Crew B
-date: 2024-01-24T00:18:26.536Z
+date: 2024-01-25T00:18:26.536Z
 header_image: /static/img/20231220_103912.jpg
 ---
 Earl Moeller was born August 11, 2006 in St. Petersburg FL. He was the only one of his siblings that his mom didn't give birth in the house. He chose to go to SailFuture Academy because his previous education choice was not working out. 
