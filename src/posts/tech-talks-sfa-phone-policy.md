@@ -6,7 +6,7 @@ description: "SailFuture, compared to other schools, particularly other private
 author: Earl Moeller
 category: Science and Technology
 crew: Crew B
-date: 2024-01-24T00:35:08.264Z
+date: 2024-01-25T00:35:08.264Z
 header_image: /static/img/close-up-adult-male-holding-mobile-phone.jpg
 ---
 The current SailFuture Academy policy is that students are each responsible for their own cell phones. While other schools confiscate phones at the beginning of school, SailFuture instead leaves the responsibility with students and encourages them to keep their phones pocketed for the day. Students are allowed to use electronics during lunch & breaks, but the school has a strict no-tolerance rule about phone use in the classroom.
