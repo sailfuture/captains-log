@@ -6,7 +6,7 @@ description: In the amazing world of economics, we get to explore how money
 author: Jonathan Purpuri
 category: Business and Economics
 crew: Crew B
-date: 2024-02-02T16:20:42.245Z
+date: 2024-02-02T18:02:33.686Z
 header_image: /static/img/332770365_2266232940204791_5330227692873426017_n.jpg
 ---
 In the amazing world of economics, we get to explore how money works and why it's so important. Let's dive into the fun journey of currencies – those coins and bills that make our world go around!
