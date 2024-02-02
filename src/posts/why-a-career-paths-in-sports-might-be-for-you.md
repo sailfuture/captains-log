@@ -1,5 +1,5 @@
 ---
-title: Why a Career Paths in Sports might be for You
+title: Why a Career Path in Sports might be for You
 description: Covering sports teams requires passion, dedication, and a love for
   the game. It's an opportunity to share the excitement and passion of sports
   with others
