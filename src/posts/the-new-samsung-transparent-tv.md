@@ -1,5 +1,5 @@
 ---
-title: The new Samsung Transparent TV
+title: The New Samsung Transparent TV
 description: Have you ever seen those transparent screens in Star Wars and said,
   “I want one” but you never could because they didn't exist? Well, now they do.
 author: Cale Meitzler
