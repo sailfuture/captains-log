@@ -6,7 +6,7 @@ description: "Ms. Cece is the ELA and math teacher at SailFuture Academy, but
 author: Camron Reynolds
 category: Opinion and Editorials
 crew: Crew B
-date: 2024-02-02T16:12:24.770Z
+date: 2024-02-02T18:02:11.498Z
 header_image: /static/img/img_9873.png
 ---
 Minx. She works as a private yoga instructor. She started this business 3 years ago, rotating between 3 studios in St. Pete or customers can request special locations like beaches, apartment complexes, and international yoga retreats. She started Yogi Minx because she wanted to motivate the people around her to take part in health and wellness as well as do her part as a positive energy in this universe.
