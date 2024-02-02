@@ -9,6 +9,7 @@ author: Blaine Lubotina
 category: Health and Wellness
 crew: Crew B
 date: 2024-02-02T18:00:23.220Z
+header_image: /static/img/photo-climate-collage-diagonal-design-noaa-communications-no-noaa-logo.jpg
 ---
  One of the biggest environmental issues is climate change, driven by global warming. It's causing extreme weather like hurricanes and heatwaves, and it's a real threat to our future. Then there's pollution – air, water, and soil. It harms wildlife, destroys natural habitats, and affects our health. The oceans are struggling with plastic waste, which can hurt sea creatures and mess with entire ecosystems.   
    Deforestation is another biggie. We're losing forests at an alarming rate, which not only affects the animals that live there but also contributes to climate change since trees absorb carbon dioxide. Biodiversity loss is a huge concern too. So many species are at risk of extinction because of human activities, which is super sad and also disrupts natural balances.
