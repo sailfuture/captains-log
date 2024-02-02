@@ -7,7 +7,7 @@ description: "Remember Pokémon GO? It made AR super popular! Nowadays, AR tech
 author: Blaine Lubotina
 category: Science and Technology
 crew: Crew B
-date: 2024-02-02T16:49:37.923Z
+date: 2024-02-02T18:02:44.011Z
 header_image: /static/img/960x0.webp
 ---
  Augmented reality or (AR) blends digital content with the real world. It uses your device's camera to capture your surroundings and then overlays virtual information, think 3D models, info panels, or animations right on top of that live view. It’s like adding a layer of digital magic to what you see around you. AR can recognize objects or specific locations to trigger this digital overlay, making information interactive and fun. It’s used in games, shopping apps, and even education to create immersive experiences.   
